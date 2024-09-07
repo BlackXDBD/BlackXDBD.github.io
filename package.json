@@ -23,7 +23,7 @@
   },
   "scripts": {
     
-    "build": "npm run your-build-script", // Replace with your actual build script
+    "build": "npm run your-build-script",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
   }
