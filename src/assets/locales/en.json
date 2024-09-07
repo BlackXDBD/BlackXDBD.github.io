@@ -1,0 +1,127 @@
+{
+    "header": {
+        "home": "home",
+        "projects": "projects",
+        "about": "about-me",
+        "contacts": "contacts"
+    },
+    "footer": {
+        "description": "Web designer and front-end developer from Bangladesh",
+        "copyright": "Copyright 2024. Made by Rajon",
+        "media": "Media"
+    },
+    "skills": {
+        "language": "Languages",
+        "database": "Databases",
+        "wordPress": "WordPress",
+        "tools": "Tools I am Best",
+        "others": "Others"
+
+    },
+    "projects": {
+        "liondiamonds": {
+            "name": "Lion Diamonds",
+            "description": "Lion Diamonds | Discover & Create Something Unique."
+        },
+        "project1": {
+            "name": "Figma to HTML",
+            "description": "Figma to HTML, CSS, JavaScript"
+        },
+        "blog": {
+            "name": "My blog",
+            "description": "Front-end of my future blog website"
+        },
+        "upwork": {
+            "name": "Upwork",
+            "description": "WordPress Maintenance | Elementor | Themes Installation"
+        },
+        "fiverr": {
+            "name": "Fiverr",
+            "description": "WordPress Expert | Shopify | Figma to WordPress"
+        },
+        "ooku": {
+            "name": "Ooku",
+            "description": "Link shortener with discord auth"
+        },
+        "rafanellievents": {
+            "name": "Rafanelli Events",
+            "description": "Destination weddings and large-scale corporate events"
+        },
+        "coremedix": {
+            "name": "Core Medix",
+            "description": "3D printed medical implants"
+        },
+        "csl": {
+            "name": "Credible Solutions Pvt Ltd.",
+            "description": "Pioneering Excellence in Medical Solutions"
+        }
+    },
+    "pages": {
+        "home": {
+            "hero": {
+                "title": "Rajon is a <span>web designer</span> and <span>front-end</span> web developer",
+                "description": "WordPress Website Designer and Developer with Elementor",
+                "button": "Contact ME",
+                "status": "Open Resume"
+            },
+            "quote": {
+                "text": "Programming is the art of algorithm design and the craft of debugging errant code.",
+                "author": "Ellen Ullman"
+            },
+            "projects": {
+                "title": "projects",
+                "button": "View all"
+            },
+            "skills": {
+                "title": "skills"
+            },
+            "about": {
+                "title": "about",
+                "description": [
+                    "I’m Abdullah Al Mamun(Rajon), distinguished by the esteemed, Top-Rated WordPress developer with more than 7 years of comprehensive experience in WordPress design and development, Site Migrations, Speed Optimization, Site Security, Plugin & Theme Customization and eCommerce solutions. ",
+                    "I am committed to delivering exceptional WordPress development services, with a focus on cultivating strong client relationships that foster satisfaction and trust. Contact me today to discover how I can effectively and efficiently address your WordPress development needs.",
+                    "In my free time, I love to travel and discover new places, catch up with friends, read books, stay active through exercise, recharge my batteries, and explore new possibilities!"
+                ],
+                "button": "View all"
+            },
+            "contacts": {
+                "title": "contacts",
+                "text": "I’m interested in freelance opportunities. If it's a yes, it would definitely be a long-term & profitable partnership for both of us. Let's chat!",
+                "media": "Message me here",
+                "donate": "Donate me here"
+            }
+        },
+        "projects": {
+            "description": "All of my projects",
+            "decent": "decent",
+            "small": "marketplace",
+            "inProgress": "unfinished"
+        },
+        "about": {
+            "description": "Who am i",
+            "about": {
+                "description": [
+                    "I’m a self-taught front-end developer based in dhaka, Bangladesh. I can build responsive websites from the ground up, transforming them into modern and user-friendly web experiences.",
+                    "For over a year, I have passionately transformed my creativity and expertise into building websites, assisting numerous clients in establishing a strong online presence. ",
+                    "I always strive to learn about the newest technologies and frameworks."
+                ]
+            },
+            "skills": {
+                "title": "skills"
+            },
+            "facts": {
+                "title": "fun-facts",
+                "list": [
+                    "I like summer more than winter", 
+                    "I often bike with my friends",
+                    "I like pizza and fried chicken", 
+                    "My favorite movie is Rambo"
+                ]
+            }
+        },
+        "contacts": {
+            "description": "How to contact me"
+
+        }
+    }
+}
