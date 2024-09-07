@@ -22,9 +22,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "scripts": {
-    
-    "build": "npm run your-build-script",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "build": "webpack",
+    "serve": "webpack serve"
   }
 }
